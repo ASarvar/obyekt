@@ -1,0 +1,92 @@
+[
+    {
+        "dep_name": "Metodologiya va axborot-tahlil bo‘limi",
+        "head": "Shxaliyev Ali Allaxshukyur ogli",
+        "occupation": "Bosh mutaxassis",
+        "pic": "shxaliyev.png",
+        "reception_days": "Dushanba-juma",
+        "phone": "(71) 259 21 59",
+        "email": "analytics@obyekt.uz"
+     },
+     {
+        "dep_name": "Davlat mulki obyektlarini xatlovdan o‘tkazish va samarali foydalanishni tashkil etish bo‘limi",
+        "head": "Majidov Jumanazar Karimberdi o‘g‘li",
+        "occupation": "Bo‘lim boshligʻi v.b.",
+        "pic": "majidov.png",
+        "reception_days": "Dushanba-juma",
+        "phone": "(71) 259 22 41",
+        "email": "inventory@obyekt.uz"
+     },
+     {
+        "dep_name": "Ijara to‘lovlari taʼminlanishi va taqsimlanishini nazorat qilish bo‘limi",
+        "head": "Mamayusupov Axmadjon Umarjonovich",
+        "occupation": "Bo‘lim boshligʻi",
+        "pic": "mamayusupov.png",
+        "reception_days": "Dushanba-juma",
+        "phone": "(71) 259 22 52",
+        "email": "payments@obyekt.uz"
+     },
+     {
+        "dep_name": "Shartnoma munosabatlarini muvofiqlashtirish va ijara obyektlari hisobini yuritish bo‘limi",
+        "head": "Vakant",
+        "occupation": "Bo‘lim boshligʻi",
+        "pic": "nophoto.png",
+        "reception_days": "Dushanba-juma",
+        "phone": "(71) 259 22 85",
+        "email": "contracts@obyekt.uz"
+     },
+     {
+        "dep_name": "Yuridik byuro",
+        "head": "Abdukarimov Yusup Usanovich",
+        "occupation": "Yuridik byuro boshlig‘i",
+        "pic": "nophoto.png",
+        "reception_days": "Dushanba-juma",
+        "phone": "(71) 259 21 34",
+        "email": "jurist@obyekt.uz"
+     },
+     {
+        "dep_name": "Axborot texnologiyalari boʻlimi",
+        "head": "Alibekov Sobir Baxtiyorovich",
+        "occupation": "Bo‘lim boshligʻi",
+        "pic": "sb.png",
+        "reception_days": "Dushanba-juma",
+        "phone": "(71) 259 21 41",
+        "email": "itdep@obyekt.uz"
+     },
+     {
+        "dep_name": "Buxgalteriya",
+        "head": "Ermatov Ziyodulla Norjigitovich",
+        "occupation": "Bosh hisobchi v.v.b.",
+        "pic": "ermatov.png",
+        "reception_days": "Dushanba-juma",
+        "phone": "(71) 259 20 85",
+        "email": "accounting@obyekt.uz"
+     },
+     {
+        "dep_name": "Korrupsiyaga qarshi kurashish bo‘limi",
+        "head": "Vakant",
+        "occupation": "Bo‘lim boshlig‘i",
+        "pic": "nophoto.png",
+        "reception_days": "Dushanba-juma",
+        "phone": "(71) 259 20 85",
+        "email": "compliance@obyekt.uz"
+     },
+     {
+        "dep_name": "Inson resurslari va xodimlar salohiyatini rivojlantirish bo‘limi",
+        "head": "Husainov Humoyun Abdutolib o‘g‘li",
+        "occupation": "Bosh mutaxassis",
+        "pic": "hr.png",
+        "reception_days": "Dushanba-juma",
+        "phone": "(71) 259 21 23",
+        "email": "hr@obyekt.uz"
+     },
+     {
+        "dep_name": "Ijro intizomi nazorati va murojaatlar bilan ishlash bo‘limi (Devonxona)",
+        "head": "Abdujabarova Madina Furkatovna",
+        "occupation": "Devonxona mudiri",
+        "pic": "nophoto.png",
+        "reception_days": "Dushanba-juma",
+        "phone": "(71) 259 22 70",
+        "email": "office@obyekt.uz"
+     }
+]

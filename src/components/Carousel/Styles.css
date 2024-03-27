@@ -1,0 +1,137 @@
+.sliderImage {
+    width: 100% !important;
+}
+
+.sliderItem {
+    /* margin-top: 60px; */
+    min-height: 610px;
+    height: 100%;
+    padding: 220px 0;
+    background-size: cover!important;
+   
+}
+
+.sliderTitleBg {
+    width: auto;
+    max-width: 640px;
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur( 3px );
+    -webkit-backdrop-filter: blur( 3px );
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.sliderItem_1 {
+    background: url(../../assets/Carousel/01.jpg) no-repeat center;
+}
+
+.sliderItem_2 {
+    background: url(../../assets/Carousel/02.jpg) no-repeat center;
+
+}
+
+.sliderItem_3 {
+    background: url(../../assets/Carousel/03.jpg) no-repeat center;
+}
+
+
+
+.sliderTitle {
+    text-transform: uppercase;
+    max-width: 620px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 120%;
+    color: #FFFFFF !important;
+}
+
+.pagination {
+    max-width: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: 80px;
+    z-index: 1000;
+}
+
+.pagination .arrows {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background: rgba(244, 244, 244, 0.23);
+    border-radius: 2px;
+    color: #fff;
+    cursor: pointer;
+    transition: 0.25s;
+}
+
+.pagination .arrows:hover {
+    color: #0142EC;
+    transition: 0.25s;
+    background: rgba(244, 244, 244, 0.3);
+}
+
+.bsIcon {
+
+    transition: 0.25s;
+}
+
+.pagination .arrows:hover .bsIcon {
+    transform: scale(1.4);
+    transition: 0.25s;
+}
+
+.pag .swiper-pagination-bullet {
+    margin: 0 10px;
+    background-color:#008cb5;
+}
+
+@media screen and (max-width:990px) {
+    .sliderTitle {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 120%;
+        /* or 36px */
+
+
+        color: #FFFFFF;
+
+    }
+    .callBox{
+        display: inherit!important;
+    }
+    .sliderItem_2, .sliderItem_3{
+        background-position:65% 25%;
+    }
+}
+.CarouselBox{
+    position: relative;
+}
+.callBox{
+    display: none;
+    position: fixed;
+    bottom: 90px;
+    right: 30px;    
+    z-index: 9999999;
+}
+
+.call-button-left{
+    max-width: 50px;
+    max-height: 50px;
+    padding: 13px; 
+    background: #008cb5;
+    border-radius: 25px;
+    box-shadow: 4px 0px 15px #03303d;
+    box-shadow: 0px 4px 15px #03303d;
+}
+.call-button-left img{
+    width: 100%;
+    height: 100%;
+}

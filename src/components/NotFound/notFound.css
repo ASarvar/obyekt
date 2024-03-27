@@ -1,0 +1,41 @@
+.StaffContent {
+    padding-bottom: 0px;
+}
+
+.mainTitles404 {
+    margin: 40px 0 46px 0;
+    background-color: #242F45;
+}
+
+.notfound {
+    font-size: 18px;    
+    color: aliceblue;
+    font-weight: 10;
+}
+.not-found-img img {
+    width: 90vh;    
+}
+
+.tagLine{
+    margin: 15px auto;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .not-found-img img {
+        width: 90vw;    
+    }
+}
+
+@media screen and (max-width:990px) {
+    .firstTitlePage {
+        font-family: Open Sans;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 110%;
+        text-align: center;
+        color: #363636;
+    }
+    
+}

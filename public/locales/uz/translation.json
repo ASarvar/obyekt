@@ -1,0 +1,115 @@
+{
+  "Menu": {
+    "home": "Bosh sahifa",
+    "about": {
+      "main": "Markaz",
+      "aboutCenter": "Markaz haqida",
+      "administration": "Rahbariyat",
+      "departments": "Boʻlimlar",
+      "structure": "Tuzilma",
+      "regionals": "Hududiy boshqarmalar"
+    },
+    "rent": {
+      "menu": "Ijara",
+      "auction": "Auksiondagi obyektlar",
+      "contracts": "Ijara shartnomalari",
+      "offers": "Ijara uchun obyektlar"
+    },
+    "buildingWork": "Qurilish ishlari",
+    "MachineService": "Mashinalar va mexanizmlar",
+    "news": "Yangiliklar",
+    "data": {
+      "menu": "Maʼlumotlar",
+      "empty_objects": "Boʻsh turgan obyektlar",
+      "open": "Ochiq maʼlumotlar",
+      "vacancy": "Boʻsh ish oʻrinlari"
+    },
+    "contact_info": "Bogʻlanish"
+  },
+  "CarouselHeader": {
+    "title1": "Davlat mulki obyektlaridan samarali foydalanish",
+    "title2": "SLIDER TITLE 2",
+    "title3": "SITE IS UNDER CONSTRUCTION"
+  },
+  "OurMissionTexts": {
+    "ourMissionTitle": "Bizning maqsadimiz",
+    "ourMissionDesc1": "Davlat mulki obyektlaridan ",
+    "ourMissionDesc2": "samarali foydalanish"
+  },
+  "AboutCompany": {
+    "Title": "O‘zbekiston Respublikasi Davlat aktivlarini boshqarish agentligi huzuridagi Davlat mulki obyektlaridan samarali foydalanish markazi haqida",
+    "desc": "",
+    "readmore": "Davomini o'qish",
+    "opitny": "Tajribali kadrlar",
+    "pravila": "Qoidalarga rioya qilish",
+    "newTechnologies": "Yangi texnologiyalar",
+    "deadline": "Belgilangan muddatlarda ishlash",
+    "opitnyDesc": "Ishchilar o'z ishlariga ko'p kuch singdiradilar.",
+    "pravilaDesc": "Biz mijoz bilan shartnoma asosida ishlaymiz.",
+    "newTechnologiesDesc": "Biz yangi texnologiyalarni joriy etishga intilamiz.",
+    "deadlineDesc": "Biz loyihalarni o'z vaqtida bajarishga intilamiz."
+  },
+  "Structure": {
+    "Title": "O‘zbekiston Respublikasi Davlat aktivlarini boshqarish agentligi huzuridagi Davlat mulki obyektlaridan samarali foydalanish markazi markaziy apparatining TUZILMASI"
+  },
+  "Opendata": {
+    "Title": "Byudjet to‘g‘risidagi qonunchilik hujjatlariga muvofiq ochiq maʼlumotlar"
+  },
+  "News": {
+    "title": "Yangiliklar",
+    "news1": "Construction Asia | Yangi loyiha"
+  },
+  "OurService": {
+    "Title": "XIZMATLARIMIZ",
+    "readMore": "Batafsil ma'lumot",
+    "titleService1": "Qurilish, montaj va demontaj ishlari",
+    "titleService2": "Mashina va mexanizmlarning xizmatlari"
+  },
+  "PageNotFound": "Bunday sahifa mavjud emas!",
+  "Employers": {
+    "mainTitle": "BIZNING XODIMLARIMIZ",
+    "AllList": "To'liq ro'yxat"
+  },
+  "EmptyOjbects": {
+    "title": "Boʻsh turgan davlat mulki obyektlari"
+  },
+  "AboutPage": {
+    "Content": [
+      "    Markaz bo‘sh turgan davlat mulki obyektlarini aniqlash va ulardan samarali foydalanishni, shu jumladan davlat mulkini ijaraga berishni tashkil etish bo‘yicha vakolatli davlat boshqaruvi organi hisoblanadi va bevosita Agentlikka bo‘ysunadi.",
+      "Agentlik Markaz faoliyatini muvofiqlashtiradi, nazorat qiladi va unga umumiy rahbarlikni amalga oshiradi, uning moddiy-texnik bazasini mustahkamlash choralarini ko‘radi, xodimlarining malakasini oshirishni tashkil etadi.",
+      "Markaz o‘z faoliyatida O‘zbekiston Respublikasi Konstitutsiyasi va qonunlariga, O‘zbekiston Respublikasi Oliy Majlisi palatalarining qarorlariga, O‘zbekiston Respublikasi Prezidentining farmonlari, qarorlari va farmoyishlariga, Vazirlar Mahkamasining qarorlari va farmoyishlariga, Agentlikning hay’ati qarorlariga, buyruqlariga, ushbu Nizomga va boshqa qonunchilik hujjatlariga amal qiladi.",
+      "Markazning o‘z vakolatlari doirasida qabul qilgan qarorlari davlat va xo‘jalik boshqaruvi organlari, mahalliy ijro etuvchi hokimiyat organlari, boshqa tashkilotlar va ularning mansabdor shaxslari tomonidan bajarilishi majburiy hisoblanadi.",
+      "Markaz yuridik shaxs hisoblanadi, O‘zbekiston Respublikasi Davlat gerbi tasviri tushirilgan va o‘z nomi davlat tilida yozilgan muhrga va blankalarga, mustaqil balansga, O‘zbekiston Respublikasi Moliya vazirligi G‘aznachiligida shaxsiy g‘azna hisobvaraqlariga, bank hisobvaraqlariga, shu jumladan xorijiy valyutadagi bank hisobvaraqlariga ega bo‘ladilar.",
+      ""
+    ],
+    "Reyting": "Reyting:",
+    "totalCount": "Qurilish tashkilotlarining umumiy soni:",
+    "kolichestvo": "Qurilish tashkilotlari soni"
+  },
+  "Contacts": {
+    "adress": "Manzil:",
+    "fax": "Faks:",
+    "callCenter": "Call center:",
+    "locationInfo1": "100060, Toshkent shahri",
+    "locationInfo2": "Amir Temur shoh ko'chasi,",
+    "locationInfo3": "6-uy"
+  },
+  "machineService": {
+    "title": "Mashinalar va mexanizmlarning xizmatlari",
+    "bobcat": "Bobcat mini yuklagichi",
+    "DOOSAN": "DOOSAN DX160W g'ildirakli ekskavator",
+    "DYNAPAC": "DYNAPAC CA 2500D  tuproq roligi",
+    "ISUZU": "ISUZU FVR 33 PLX avtoulovi",
+    "JCB": "JCB 3CX 14M2WM yuklovchi ekskavator",
+    "LIEBHERR": "LIEBHERR A904 g'ildirakli ekskavator",
+    "LIEBHERR2": "LIEBHERR R924 zanjirli ekskavator",
+    "manTgs1": "MAN TGS 33.360, 6x4 BB- 20 tn avtosamosval",
+    "manTgs2": "MAN TGS 40.400, 6x4 BB-25 tn avtosamosval",
+    "manTgs3": "MAN-SCTF-U334.01 konteynerli yarim tirkamali avtoulov MAN TGS 26.400 6x4 BLS",
+    "SANY": "SANY SYM5333JQZ avtokrani",
+    "Shacman": "Shacman suv tashuvchisi",
+    "VodovozShacman": "Shacman suv tashuvchisi",
+    "shantui": "SHANTUI SD 22  buldozeri",
+    "diamondBox": "Kompaniyaning qurilish uskunalari butunlay yangi, bu ularni ikki yoki uch smenada ishlatilishiga imkon beradi."
+  }
+}
